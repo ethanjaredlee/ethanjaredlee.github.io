@@ -19,29 +19,33 @@ html, body {
 	vertical-align: middle;
 }
 
-.intro {
+#intro {
 	background-color: #6dd3ce;
-/*	height: 100vh;
-	width: 100vw;
-	margin: 0px;
-	vertical-align: middle;
-*/}
+}
 
-.about {
+#about {
 	background-color: #c8e9a0;
-/*	height: 100vh;
-	width: 100vw;
-	margin: 0px;
-	vertical-align: middle;
-*/}
+}
 
-.oracle {
+#oracle {
 	background-color: #f7a278;
-/*	height: 100vh;
-	width: 100vw;
-	margin: 0px;
-	vertical-align: middle;
-*/}
+}
+
+#carepackage {
+	background-color: #a13d63;
+}
+
+#promazo {
+	background-color: #a491d3;
+}
+
+#contact {
+	background-color: #6dd3ce;
+}
+
+#contact i {
+	padding: 8px 6px;
+}
 
 .content {
 	margin-left: auto;
@@ -53,4 +57,5 @@ html, body {
 
 .writing {
 	text-align: center;
+	font-size: 28px;
 }
