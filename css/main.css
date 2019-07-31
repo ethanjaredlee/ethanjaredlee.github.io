@@ -1,9 +1,9 @@
 /* Ubuntu, Ubuntu */
-@import url(https://fonts.googleapis.com/css?family=Ubuntu);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono);
 
 body {
-  font-family: "Ubuntu", sans-serif;
+  font-family: "Roboto-thin", sans-serif;
   font-weight: 300;
   color: #333;
   line-height: 1.5;
@@ -77,16 +77,6 @@ blockquote cite {
 }
 span {
     display: block;
-}
-
-a,
-a:hover {
-  color: #a00;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 h1,
